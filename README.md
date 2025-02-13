@@ -3,6 +3,8 @@
 
 This program calculates and displays grade statistics for a university course based on student exam points and completed exercises.  It takes student data as input, calculates grades, and then presents statistics including average points, pass percentage, and grade distribution.
 
+**Note:** I'm a beginner programmer, and this is my first project. I'm excited to learn and improve my skills, so any feedback or suggestions are welcome!
+
 ## Features
 
 * **Input:** Accepts student data in the format "exam points exercises completed" (e.g., "15 87").  Input continues until an empty line is entered.
@@ -26,7 +28,39 @@ This program calculates and displays grade statistics for a university course ba
 
 ## How to Use
 
-1. **Clone the repository:**  (If you're sharing the code on GitHub)
+1. **Clone the repository:**  
    ```bash
-   git clone [https://github.com/your_username/your_repository.git](https://www.google.com/search?q=https://github.com/your_username/your_repository.git)
-     
+   git clone https://github.com/YankeyNwolle/Grade-Statistics.git
+
+## Example Input and Output
+Exam points and exercises completed: 15 87
+Exam points and exercises completed: 10 55
+Exam points and exercises completed: 11 40
+Exam points and exercises completed: 4 17
+Exam points and exercises completed: 18 95
+Exam points and exercises completed: 12 60
+Exam points and exercises completed:
+Statistics:
+Points average: 18.2
+Pass percentage: 83.3
+Grade distribution:
+5: *
+4: **
+3: *
+2: *
+1: *
+0:
+
+2. **Contributing:**
+
+   ## Contributing
+
+Contributions are welcome! Since I'm still learning, I would especially appreciate feedback on my code, including suggestions for improvements or best practices. Please submit a pull request if you'd like to contribute.
+
+3. **Author**
+## Author
+
+**P.S.** I'm a beginner in programming, and this is my first project. I'm eager to learn and grow, so any feedback or guidance would be greatly appreciated! 
+of course Python programming Mooc 2025
+
+4. **THANK YOU**
